@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Django
+*.sqlite3
+.env
+media/
+
+# Node
+node_modules/
+package-lock.json
